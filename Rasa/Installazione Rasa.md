@@ -23,11 +23,11 @@ da terminale:
 
 ## Per altri sistemi operativi
 
-Ci sono semplici guide sulla documentazione ufficiale Rasa (https://rasa.com/docs/rasa/installation/) o su youtube per configurare rasa anche su altri sistemi operativi ed è preferibile inizializzare Rasa in questo modo. 
+Ci sono semplici guide sulla documentazione ufficiale [Rasa](https://rasa.com/docs/rasa/installation/) o su youtube per configurare rasa anche su altri sistemi operativi ed è preferibile inizializzare Rasa in questo modo. 
 
-Ma se ci dovessero essere particolari problemi a configurarlo potete scaricare VirtualBox (https://www.virtualbox.org/wiki/Downloads) e questa macchina virtuale Linux su cui c'è già una versione configurata di rasa al suo interno:
+Ma se ci dovessero essere particolari problemi a configurarlo potete scaricare [VirtualBox](https://www.virtualbox.org/wiki/Downloads) e questa macchina virtuale Linux su cui c'è già una versione configurata di rasa al suo interno:
 
-https://univpm-my.sharepoint.com/:f:/g/personal/s1106609_pm_univpm_it/EkKVwXswqV1NgSLW_ItT73UBC99ZnSXb9MIhRoEMyxH8OA?e=izvG5X
+[Macchina virtuale](https://univpm-my.sharepoint.com/:f:/g/personal/s1106609_pm_univpm_it/EkKVwXswqV1NgSLW_ItT73UBC99ZnSXb9MIhRoEMyxH8OA?e=izvG5X)
 
 e aggiungerla a Virtualbox:
 
